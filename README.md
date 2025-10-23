@@ -1,0 +1,11 @@
+<b>CS-360: Mobile Architecture & Programming</b>
+
+The app I developed was designed to manage an inventory system that allows users to add, edit, delete, and view items efficiently. The primary goal was to provide a simple, organized way for users to track products and quantities while ensuring data consistency. This app addressed user needs for quick inventory updates, easy item management, and clear visibility of stored information without requiring advanced technical skills.
+
+To support these needs, I designed several screens, including a login screen, an inventory list screen displaying all items, and an item detail screen where users could add or modify entries. I also included a floating action button for quick item additions and integrated confirmation dialogs for deletions to prevent errors. The user interface was designed with clarity and accessibility in mind—clean layouts, readable text, and intuitive navigation ensured users could interact with the app smoothly. These designs were successful because they reduced user friction and made the experience intuitive even for first-time users.
+
+When coding the app, I approached the process incrementally—building one feature at a time, testing as I went. I used modular coding practices and object-oriented design principles to make the app maintainable and reusable. For example, separating data handling from UI components helped simplify debugging and future updates. These strategies could be applied in future projects to create scalable, adaptable applications that are easier to maintain.
+
+I tested the app through both manual and automated testing, including unit tests to verify core functions like adding and deleting items. This process was critical for ensuring the app worked as intended and revealed a few logic errors early on, allowing me to fix them before deployment.
+
+Throughout development, one challenge was ensuring smooth data handling between the UI and backend. I had to innovate by refining my use of data binding and CRUD operations to keep the interface responsive and consistent. I was particularly successful in implementing the CRUD functionality—this component demonstrated my understanding of data management, user interaction, and clean code design, resulting in a reliable and user-friendly app.
